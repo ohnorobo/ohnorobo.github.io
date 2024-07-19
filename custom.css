@@ -5,7 +5,13 @@
 .bg-primary {
     background-color: #198754 !important;
 }
-
 a {
     color: #198754;
+}
+
+.list-group-item-action:active,
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+  color: unset !important;
+  background-color: unset !important;
 }
