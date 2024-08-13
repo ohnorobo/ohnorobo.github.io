@@ -9,6 +9,7 @@ a {
     color: #198754;
 }
 
+/** Remove list item color changing on hover/click **/
 .list-group-item-action:active,
 .list-group-item-action:focus,
 .list-group-item-action:hover {
